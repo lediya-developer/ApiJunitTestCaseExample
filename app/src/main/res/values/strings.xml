@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inmobi</string>
+    <string name="download_data">Load</string>
+    <string name="failure_toast">Internet not available</string>
+</resources>
